@@ -1,2 +1,2 @@
 # First-contribution
-Learning...
+Practicing whatever i learned in Lets Learn Git repository
