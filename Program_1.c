@@ -7,10 +7,10 @@ int main(){
     printf("Enter your character = ");
     scanf("%c", &ch);
 
-    if(ch = 'a' && ch <= 'z'){
+    if(ch >= 'a' && ch <= 'z'){
         printf("Given digit is in lowercase character");
     }
-    else if(ch = 'A' && ch <= 'Z'){
+    else if(ch >= 'A' && ch <= 'Z'){
         printf("Given digit is in UPPERCASE character");
     }
     else{
